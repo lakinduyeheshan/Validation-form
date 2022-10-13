@@ -1,0 +1,39 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+    width: 500px;
+    height: 2000px;
+    margin: 20px auto;
+}
+form{
+    padding:20px;
+    background-color: indigo;
+    color:gold;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+form label,
+form input,
+form button{
+
+    border-radius: 3px;
+    width:100%;
+}
+
+form.error{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(243, 198, 19);
+    font-size: 20px;
+}
+
+
+
+
